@@ -1,3 +1,3 @@
 # MLSalesForecast
 
-Run the notebook cells
+View the written report and the python notebook file for analysis and results.
